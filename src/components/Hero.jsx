@@ -4,7 +4,7 @@ import {
   FaReact, FaJs, FaPython, FaHtml5, FaCss3Alt, FaNode, FaVuejs, FaAngular, FaJava,
   FaFigma, FaSass, FaDocker, FaAws, FaGitAlt, FaNpm, FaAndroid, FaApple, FaDatabase
 } from 'react-icons/fa';
-import ProfileImage from '../assets/Profile.jpg'; 
+import ProfileImage from '../assets/profile.jpg'; 
 import ResumePDF from '../assets/PARWEZCV.pdf';  // ✅ Import your actual CV
 
 const Hero = () => {
